@@ -8,4 +8,4 @@ Blender Version 2.8 or higher
 
 1. Download Color Code Conversion 1.0 (color-code-conversion.py)
 2. Open Preferences > Add-ons category.
-3. Install the downloaded file using the add-on installation.
+3. Install the download file using Install Add-ons.
