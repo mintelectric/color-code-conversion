@@ -1,6 +1,6 @@
 Color Code Conversion - RGB to HEX color code conversion add-on for Blender.
 
-<img src="color-code-conversion-1.png" width="252px">
+![add-on's image](https://github.com/user-attachments/assets/bdb2dc35-65e5-4123-bd78-59108d4f47d8)
 
 ### Supported Versions
 
